@@ -1,0 +1,28 @@
+# LangGraph
+langgraph
+
+# LangChain core components
+langchain-core
+langchain-text-splitters
+
+# Groq LLM
+langchain-groq
+
+# Vector database
+chromadb
+langchain-chroma
+
+# Embeddings
+sentence-transformers
+
+# FastAPI
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Document / URL ingestion
+beautifulsoup4
+httpx
+
+# Environment variables
+python-dotenv

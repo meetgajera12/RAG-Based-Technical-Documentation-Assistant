@@ -1,28 +1,20 @@
-# LangGraph
+fastapi
+uvicorn
+python-multipart
+pydantic
+python-dotenv
+requests
+beautifulsoup4
+pypdf
+streamlit
+
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-groq
+langchain-tavily
 langgraph
 
-# LangChain core components
-langchain-core
-langchain-text-splitters
-
-# Groq LLM
-langchain-groq
-
-# Vector database
-chromadb
-langchain-chroma
-
-# Embeddings
+faiss-cpu
 sentence-transformers
-
-# FastAPI
-fastapi
-uvicorn[standard]
-python-multipart
-
-# Document / URL ingestion
-beautifulsoup4
-httpx
-
-# Environment variables
-python-dotenv
